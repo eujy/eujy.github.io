@@ -18,7 +18,7 @@ export default function Home() {
               Release page on Github.
             </Link>
           </li>
-          <>Set it up by clicking the dmg file.</>
+          <li>Set it up by clicking the dmg file.</li>
           <li>
             Prepare models. You can find them at{" "}
             <Link href={"https://huggingface.co/coreml"}>huggingface</Link> or
